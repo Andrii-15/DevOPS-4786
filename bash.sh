@@ -1,5 +1,5 @@
 #!/bin/bash 
-:Hello!
+echo "Hello!"
 COUNTER=0 
 while [ $COUNTER -lt 10 ] 
 do 
